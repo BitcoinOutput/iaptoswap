@@ -13,7 +13,7 @@
     "crypto-js": "^4.1.1",
     "install": "^0.13.0",
     "js-yaml": "^4.1.0",
-    "npm": "^8.19.2",
+    "npm": "^8.19.4",
     "prompt-sync": "^4.2.0",
     "ts-node": "^10.9.1",
     "typescript": "^4.8.2"
