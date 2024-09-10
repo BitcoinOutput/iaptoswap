@@ -7,15 +7,15 @@
     "freeze-pool": "ts-node src/index.ts freeze-pool"
   },
   "dependencies": {
-    "@types/crypto-js": "^4.1.1",
-    "@types/js-yaml": "^4.0.5",
+    "@types/crypto-js": "^4.2.2",
+    "@types/js-yaml": "^4.0.9",
     "aptos": "../submodules/aptos-core/ecosystem/typescript/sdk",
-    "crypto-js": "^4.1.1",
+    "crypto-js": "^4.2.0",
     "install": "^0.13.0",
     "js-yaml": "^4.1.0",
-    "npm": "^8.19.2",
+    "npm": "^8.19.4",
     "prompt-sync": "^4.2.0",
-    "ts-node": "^10.9.1",
-    "typescript": "^4.8.2"
+    "ts-node": "^10.9.2",
+    "typescript": "^4.9.5"
   }
 }
